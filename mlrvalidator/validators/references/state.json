@@ -5,12 +5,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "292900",
-          "state_max_lat_va": "383000",
-          "state_min_long_va": "-0745800",
-          "state_max_long_va": "-0605000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 292900    ",
+          "state_max_lat_va": " 383000    ",
+          "state_min_long_va": "-0745800    ",
+          "state_max_long_va": "-0605000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -19,12 +19,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "384900",
-          "state_max_lat_va": "411700",
-          "state_min_long_va": "-0463930",
-          "state_max_long_va": "-0432800",
-          "state_min_alt_va": "390",
-          "state_max_alt_va": "13432"
+          "state_min_lat_va": " 384900    ",
+          "state_max_lat_va": " 411700    ",
+          "state_min_long_va": "-0463930    ",
+          "state_max_long_va": "-0432800    ",
+          "state_min_alt_va": "  390   ",
+          "state_max_alt_va": "13432   "
         }
       ]
     },
@@ -33,12 +33,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "-522600",
-          "state_max_lat_va": "-214500",
-          "state_min_long_va": "0533500",
-          "state_max_long_va": "0734000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": "-522600    ",
+          "state_max_lat_va": "-214500    ",
+          "state_min_long_va": " 0533500    ",
+          "state_max_long_va": " 0734000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -47,12 +47,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "-600000",
-          "state_max_lat_va": "-900000",
-          "state_min_long_va": "-1800000",
-          "state_max_long_va": "1800000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": "-600000    ",
+          "state_max_lat_va": "-900000    ",
+          "state_min_long_va": "-1800000    ",
+          "state_max_long_va": " 1800000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -61,12 +61,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "213600",
-          "state_max_lat_va": "263900",
-          "state_min_long_va": "-0924300",
-          "state_max_long_va": "-0880000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 213600    ",
+          "state_max_lat_va": " 263900    ",
+          "state_min_long_va": "-0924300    ",
+          "state_max_long_va": "-0880000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -75,93 +75,93 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "414036",
-          "state_max_lat_va": "694000",
-          "state_min_long_va": "0553000",
-          "state_max_long_va": "1410000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 414036    ",
+          "state_max_lat_va": " 694000    ",
+          "state_min_long_va": " 0553000    ",
+          "state_max_long_va": " 1410000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "90",
-          "state_min_lat_va": "443000",
-          "state_max_lat_va": "480500",
-          "state_min_long_va": "0634500",
-          "state_max_long_va": "0690500",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02690"
+          "state_min_lat_va": " 443000    ",
+          "state_max_lat_va": " 480500    ",
+          "state_min_long_va": " 0634500    ",
+          "state_max_long_va": " 0690500    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02690   "
         },
         {
           "stateFipsCode": "91",
-          "state_min_lat_va": "450000",
-          "state_max_lat_va": "623500",
-          "state_min_long_va": "0553000",
-          "state_max_long_va": "0795000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 450000    ",
+          "state_max_lat_va": " 623500    ",
+          "state_min_long_va": " 0553000    ",
+          "state_max_long_va": " 0795000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "92",
-          "state_min_lat_va": "414036",
-          "state_max_lat_va": "565500",
-          "state_min_long_va": "0742000",
-          "state_max_long_va": "0951000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02263"
+          "state_min_lat_va": " 414036    ",
+          "state_max_lat_va": " 565500    ",
+          "state_min_long_va": " 0742000    ",
+          "state_max_long_va": " 0951000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02263   "
         },
         {
           "stateFipsCode": "93",
-          "state_min_lat_va": "490000",
-          "state_max_lat_va": "600000",
-          "state_min_long_va": "0892000",
-          "state_max_long_va": "1020000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 490000    ",
+          "state_max_lat_va": " 600000    ",
+          "state_min_long_va": " 0892000    ",
+          "state_max_long_va": " 1020000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "94",
-          "state_min_lat_va": "490000",
-          "state_max_lat_va": "600000",
-          "state_min_long_va": "1012000",
-          "state_max_long_va": "1100000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 490000    ",
+          "state_max_lat_va": " 600000    ",
+          "state_min_long_va": " 1012000    ",
+          "state_max_long_va": " 1100000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "95",
-          "state_min_lat_va": "490000",
-          "state_max_lat_va": "600000",
-          "state_min_long_va": "1100000",
-          "state_max_long_va": "1200000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 490000    ",
+          "state_max_lat_va": " 600000    ",
+          "state_min_long_va": " 1100000    ",
+          "state_max_long_va": " 1200000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "96",
-          "state_min_lat_va": "490000",
-          "state_max_lat_va": "600000",
-          "state_min_long_va": "1130000",
-          "state_max_long_va": "1390000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "15300"
+          "state_min_lat_va": " 490000    ",
+          "state_max_lat_va": " 600000    ",
+          "state_min_long_va": " 1130000    ",
+          "state_max_long_va": " 1390000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "15300   "
         },
         {
           "stateFipsCode": "97",
-          "state_min_lat_va": "600000",
-          "state_max_lat_va": "694000",
-          "state_min_long_va": "1235000",
-          "state_max_long_va": "1410000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 600000    ",
+          "state_max_lat_va": " 694000    ",
+          "state_min_long_va": " 1235000    ",
+          "state_max_long_va": " 1410000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "98",
-          "state_min_lat_va": "432311",
-          "state_max_lat_va": "470244",
-          "state_min_long_va": "0594103",
-          "state_max_long_va": "0662400",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "01750"
+          "state_min_lat_va": " 432311    ",
+          "state_max_lat_va": " 470244    ",
+          "state_min_long_va": " 0594103    ",
+          "state_max_long_va": " 0662400    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "01750   "
         }
       ]
     },
@@ -170,12 +170,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "-560000",
-          "state_max_lat_va": "-730000",
-          "state_min_long_va": "0662000",
-          "state_max_long_va": "0754500",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": "-560000    ",
+          "state_max_lat_va": "-730000    ",
+          "state_min_long_va": " 0662000    ",
+          "state_max_long_va": " 0754500    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -184,12 +184,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "181000",
-          "state_max_lat_va": "533000",
-          "state_min_long_va": "-1350000",
-          "state_max_long_va": "-0733000",
-          "state_min_alt_va": "-505",
-          "state_max_alt_va": "29035"
+          "state_min_lat_va": " 181000    ",
+          "state_max_lat_va": " 533000    ",
+          "state_min_long_va": "-1350000    ",
+          "state_max_long_va": "-0733000    ",
+          "state_min_alt_va": " -505   ",
+          "state_max_alt_va": "29035   "
         }
       ]
     },
@@ -198,12 +198,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "144500",
-          "state_max_lat_va": "171500",
-          "state_min_long_va": "0223000",
-          "state_max_long_va": "0253000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 144500    ",
+          "state_max_lat_va": " 171500    ",
+          "state_min_long_va": " 0223000    ",
+          "state_max_long_va": " 0253000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -212,12 +212,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "173000",
-          "state_max_lat_va": "195630",
-          "state_min_long_va": "0681800",
-          "state_max_long_va": "0715330",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 173000    ",
+          "state_max_lat_va": " 195630    ",
+          "state_min_long_va": " 0681800    ",
+          "state_max_long_va": " 0715330    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -226,12 +226,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "130840",
-          "state_max_lat_va": "142710",
-          "state_min_long_va": "0874200",
-          "state_max_long_va": "0900822",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 130840    ",
+          "state_max_lat_va": " 142710    ",
+          "state_min_long_va": " 0874200    ",
+          "state_max_long_va": " 0900822    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -240,12 +240,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "032000",
-          "state_max_lat_va": "150000",
-          "state_min_long_va": "-0480000",
-          "state_max_long_va": "-0330000",
-          "state_min_alt_va": "-410",
-          "state_max_alt_va": "14928"
+          "state_min_lat_va": " 032000    ",
+          "state_max_lat_va": " 150000    ",
+          "state_min_long_va": "-0480000    ",
+          "state_max_long_va": "-0330000    ",
+          "state_min_alt_va": " -410   ",
+          "state_max_alt_va": "14928   "
         }
       ]
     },
@@ -254,21 +254,21 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "010400",
-          "state_max_lat_va": "100700",
-          "state_min_long_va": "-1630200",
-          "state_max_long_va": "-1380000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02600"
+          "state_min_lat_va": " 010400    ",
+          "state_max_lat_va": " 100700    ",
+          "state_min_long_va": "-1630200    ",
+          "state_max_long_va": "-1380000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02600   "
         },
         {
           "stateFipsCode": "64",
-          "state_min_lat_va": "010400",
-          "state_max_lat_va": "100700",
-          "state_min_long_va": "-1630200",
-          "state_max_long_va": "-1380000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02600"
+          "state_min_lat_va": " 010400    ",
+          "state_max_lat_va": " 100700    ",
+          "state_min_long_va": "-1630200    ",
+          "state_max_long_va": "-1380000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02600   "
         }
       ]
     },
@@ -277,12 +277,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "130000",
-          "state_max_lat_va": "170000",
-          "state_min_long_va": "0880000",
-          "state_max_long_va": "0920000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 130000    ",
+          "state_max_lat_va": " 170000    ",
+          "state_min_long_va": " 0880000    ",
+          "state_max_long_va": " 0920000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -291,12 +291,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "180000",
-          "state_max_lat_va": "200600",
-          "state_min_long_va": "0713700",
-          "state_max_long_va": "0732745",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 180000    ",
+          "state_max_lat_va": " 200600    ",
+          "state_min_long_va": " 0713700    ",
+          "state_max_long_va": " 0732745    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -305,12 +305,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "130000",
-          "state_max_lat_va": "170000",
-          "state_min_long_va": "0830000",
-          "state_max_long_va": "0893000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 130000    ",
+          "state_max_lat_va": " 170000    ",
+          "state_min_long_va": " 0830000    ",
+          "state_max_long_va": " 0893000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -319,12 +319,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "290000",
-          "state_max_lat_va": "372300",
-          "state_min_long_va": "-0462200",
-          "state_max_long_va": "-0385400",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 290000    ",
+          "state_max_lat_va": " 372300    ",
+          "state_min_long_va": "-0462200    ",
+          "state_max_long_va": "-0385400    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -333,12 +333,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "260000",
-          "state_max_lat_va": "453400",
-          "state_min_long_va": "-1460000",
-          "state_max_long_va": "-1230000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "12388"
+          "state_min_lat_va": " 260000    ",
+          "state_max_lat_va": " 453400    ",
+          "state_min_long_va": "-1460000    ",
+          "state_max_long_va": "-1230000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "12388   "
         }
       ]
     },
@@ -347,12 +347,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "413200",
-          "state_max_lat_va": "521000",
-          "state_min_long_va": "-1200000",
-          "state_max_long_va": "-0874600",
-          "state_min_alt_va": "1700",
-          "state_max_alt_va": "14350"
+          "state_min_lat_va": " 413200    ",
+          "state_max_lat_va": " 521000    ",
+          "state_min_long_va": "-1200000    ",
+          "state_max_long_va": "-0874600    ",
+          "state_min_alt_va": " 1700   ",
+          "state_max_alt_va": "14350   "
         }
       ]
     },
@@ -361,66 +361,66 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "221500",
-          "state_max_lat_va": "324500",
-          "state_min_long_va": "0970500",
-          "state_max_long_va": "1171000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 221500    ",
+          "state_max_lat_va": " 324500    ",
+          "state_min_long_va": " 0970500    ",
+          "state_max_long_va": " 1171000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "81",
-          "state_min_lat_va": "221500",
-          "state_max_lat_va": "274500",
-          "state_min_long_va": "0970500",
-          "state_max_long_va": "1001000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 221500    ",
+          "state_max_lat_va": " 274500    ",
+          "state_min_long_va": " 0970500    ",
+          "state_max_long_va": " 1001000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "82",
-          "state_min_lat_va": "231000",
-          "state_max_lat_va": "275000",
-          "state_min_long_va": "0982500",
-          "state_max_long_va": "1011500",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 231000    ",
+          "state_max_lat_va": " 275000    ",
+          "state_min_long_va": " 0982500    ",
+          "state_max_long_va": " 1011500    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "83",
-          "state_min_lat_va": "243000",
-          "state_max_lat_va": "295000",
-          "state_min_long_va": "0995000",
-          "state_max_long_va": "1040000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 243000    ",
+          "state_max_lat_va": " 295000    ",
+          "state_min_long_va": " 0995000    ",
+          "state_max_long_va": " 1040000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "84",
-          "state_min_lat_va": "253500",
-          "state_max_lat_va": "315000",
-          "state_min_long_va": "1030500",
-          "state_max_long_va": "1090500",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 253500    ",
+          "state_max_lat_va": " 315000    ",
+          "state_min_long_va": " 1030500    ",
+          "state_max_long_va": " 1090500    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "85",
-          "state_min_lat_va": "260000",
-          "state_max_lat_va": "323000",
-          "state_min_long_va": "1081500",
-          "state_max_long_va": "1150500",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 260000    ",
+          "state_max_lat_va": " 323000    ",
+          "state_min_long_va": " 1081500    ",
+          "state_max_long_va": " 1150500    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "86",
-          "state_min_lat_va": "225000",
-          "state_max_lat_va": "324500",
-          "state_min_long_va": "1093000",
-          "state_max_long_va": "1171000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 225000    ",
+          "state_max_lat_va": " 324500    ",
+          "state_min_long_va": " 1093000    ",
+          "state_max_long_va": " 1171000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -429,12 +429,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "104152",
-          "state_max_lat_va": "150153",
-          "state_min_long_va": "0830742",
-          "state_max_long_va": "0874133",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 104152    ",
+          "state_max_lat_va": " 150153    ",
+          "state_min_long_va": " 0830742    ",
+          "state_max_long_va": " 0874133    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -443,12 +443,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "-183000",
-          "state_max_lat_va": "-010000",
-          "state_min_long_va": "0683500",
-          "state_max_long_va": "0812100",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "22205"
+          "state_min_lat_va": "-183000    ",
+          "state_max_lat_va": "-010000    ",
+          "state_min_long_va": " 0683500    ",
+          "state_max_long_va": " 0812100    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "22205   "
         }
       ]
     },
@@ -457,21 +457,21 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "071318",
-          "state_max_lat_va": "093828",
-          "state_min_long_va": "0770922",
-          "state_max_long_va": "0830303",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 071318    ",
+          "state_max_lat_va": " 093828    ",
+          "state_min_long_va": " 0770922    ",
+          "state_max_long_va": " 0830303    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "61",
-          "state_min_lat_va": "071318",
-          "state_max_lat_va": "093828",
-          "state_min_long_va": "0770922",
-          "state_max_long_va": "083030",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 071318    ",
+          "state_max_lat_va": " 093828    ",
+          "state_min_long_va": " 0770922    ",
+          "state_max_long_va": " 083030     ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -480,21 +480,21 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "051900",
-          "state_max_lat_va": "080539",
-          "state_min_long_va": "-1344317",
-          "state_max_long_va": "-1321306",
-          "state_min_alt_va": "",
-          "state_max_alt_va": "2000"
+          "state_min_lat_va": " 051900    ",
+          "state_max_lat_va": " 080539    ",
+          "state_min_long_va": "-1344317    ",
+          "state_max_long_va": "-1321306    ",
+          "state_min_alt_va": "        ",
+          "state_max_alt_va": " 2000   "
         },
         {
           "stateFipsCode": "70",
-          "state_min_lat_va": "051900",
-          "state_max_lat_va": "080539",
-          "state_min_long_va": "-1344317",
-          "state_max_long_va": "-1321306",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02000"
+          "state_min_lat_va": " 051900    ",
+          "state_max_lat_va": " 080539    ",
+          "state_min_long_va": "-1344317    ",
+          "state_max_long_va": "-1321306    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02000   "
         }
       ]
     },
@@ -503,21 +503,21 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "045000",
-          "state_max_lat_va": "124000",
-          "state_min_long_va": "-1720000",
-          "state_max_long_va": "-1610000",
-          "state_min_alt_va": "",
-          "state_max_alt_va": "1000"
+          "state_min_lat_va": " 045000    ",
+          "state_max_lat_va": " 124000    ",
+          "state_min_long_va": "-1720000    ",
+          "state_max_long_va": "-1610000    ",
+          "state_min_alt_va": "        ",
+          "state_max_alt_va": " 1000   "
         },
         {
           "stateFipsCode": "68",
-          "state_min_lat_va": "045000",
-          "state_max_lat_va": "124000",
-          "state_min_long_va": "-1720000",
-          "state_max_long_va": "-1610000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "01000"
+          "state_min_lat_va": " 045000    ",
+          "state_max_lat_va": " 124000    ",
+          "state_min_long_va": "-1720000    ",
+          "state_max_long_va": "-1610000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "01000   "
         }
       ]
     },
@@ -526,12 +526,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "053000",
-          "state_max_lat_va": "190000",
-          "state_min_long_va": "-1270000",
-          "state_max_long_va": "-1170000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "09692"
+          "state_min_lat_va": " 053000    ",
+          "state_max_lat_va": " 190000    ",
+          "state_min_long_va": "-1270000    ",
+          "state_max_long_va": "-1170000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "09692   "
         }
       ]
     },
@@ -540,12 +540,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "442000",
-          "state_max_lat_va": "522000",
-          "state_min_long_va": "-0400000",
-          "state_max_long_va": "-0220000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": " 442000    ",
+          "state_max_lat_va": " 522000    ",
+          "state_min_long_va": "-0400000    ",
+          "state_max_long_va": "-0220000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         }
       ]
     },
@@ -554,588 +554,588 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "-900000",
-          "state_max_lat_va": "900000",
-          "state_min_long_va": "-1800000",
-          "state_max_long_va": "1800000",
-          "state_min_alt_va": "-282",
-          "state_max_alt_va": "20320"
+          "state_min_lat_va": "-900000    ",
+          "state_max_lat_va": " 900000    ",
+          "state_min_long_va": "-1800000    ",
+          "state_max_long_va": " 1800000    ",
+          "state_min_alt_va": " -282   ",
+          "state_max_alt_va": "20320   "
         },
         {
           "stateFipsCode": "01",
-          "state_min_lat_va": "300840",
-          "state_max_lat_va": "350029",
-          "state_min_long_va": "0845318",
-          "state_max_long_va": "0882824",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02407"
+          "state_min_lat_va": " 300840    ",
+          "state_max_lat_va": " 350029    ",
+          "state_min_long_va": " 0845318    ",
+          "state_max_long_va": " 0882824    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02407   "
         },
         {
           "stateFipsCode": "02",
-          "state_min_lat_va": "511030",
-          "state_max_lat_va": "712628",
-          "state_min_long_va": "1295846",
-          "state_max_long_va": "-1722655",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "20320"
+          "state_min_lat_va": " 511030    ",
+          "state_max_lat_va": " 712628    ",
+          "state_min_long_va": " 1295846    ",
+          "state_max_long_va": "-1722655    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "20320   "
         },
         {
           "stateFipsCode": "04",
-          "state_min_lat_va": "311956",
-          "state_max_lat_va": "370015",
-          "state_min_long_va": "1090243",
-          "state_max_long_va": "1144860",
-          "state_min_alt_va": "00070",
-          "state_max_alt_va": "12633"
+          "state_min_lat_va": " 311956    ",
+          "state_max_lat_va": " 370015    ",
+          "state_min_long_va": " 1090243    ",
+          "state_max_long_va": " 1144860    ",
+          "state_min_alt_va": "00070   ",
+          "state_max_alt_va": "12633   "
         },
         {
           "stateFipsCode": "05",
-          "state_min_lat_va": "330015",
-          "state_max_lat_va": "362959",
-          "state_min_long_va": "0893840",
-          "state_max_long_va": "0943705",
-          "state_min_alt_va": "00055",
-          "state_max_alt_va": "02753"
+          "state_min_lat_va": " 330015    ",
+          "state_max_lat_va": " 362959    ",
+          "state_min_long_va": " 0893840    ",
+          "state_max_long_va": " 0943705    ",
+          "state_min_alt_va": "00055   ",
+          "state_max_alt_va": "02753   "
         },
         {
           "stateFipsCode": "06",
-          "state_min_lat_va": "323144",
-          "state_max_lat_va": "420034",
-          "state_min_long_va": "1140752",
-          "state_max_long_va": "1242855",
-          "state_min_alt_va": "-282",
-          "state_max_alt_va": "14494"
+          "state_min_lat_va": " 323144    ",
+          "state_max_lat_va": " 420034    ",
+          "state_min_long_va": " 1140752    ",
+          "state_max_long_va": " 1242855    ",
+          "state_min_alt_va": " -282   ",
+          "state_max_alt_va": "14494   "
         },
         {
           "stateFipsCode": "08",
-          "state_min_lat_va": "365933",
-          "state_max_lat_va": "410012",
-          "state_min_long_va": "1020227",
-          "state_max_long_va": "1090337",
-          "state_min_alt_va": "03315",
-          "state_max_alt_va": "14433"
+          "state_min_lat_va": " 365933    ",
+          "state_max_lat_va": " 410012    ",
+          "state_min_long_va": " 1020227    ",
+          "state_max_long_va": " 1090337    ",
+          "state_min_alt_va": "03315   ",
+          "state_max_alt_va": "14433   "
         },
         {
           "stateFipsCode": "09",
-          "state_min_lat_va": "405703",
-          "state_max_lat_va": "420302",
-          "state_min_long_va": "0714714",
-          "state_max_long_va": "0734340",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02380"
+          "state_min_lat_va": " 405703    ",
+          "state_max_lat_va": " 420302    ",
+          "state_min_long_va": " 0714714    ",
+          "state_max_long_va": " 0734340    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02380   "
         },
         {
           "stateFipsCode": "10",
-          "state_min_lat_va": "382704",
-          "state_max_lat_va": "395022",
-          "state_min_long_va": "0745903",
-          "state_max_long_va": "0754720",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "00448"
+          "state_min_lat_va": " 382704    ",
+          "state_max_lat_va": " 395022    ",
+          "state_min_long_va": " 0745903    ",
+          "state_max_long_va": " 0754720    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "00448   "
         },
         {
           "stateFipsCode": "11",
-          "state_min_lat_va": "384730",
-          "state_max_lat_va": "385944",
-          "state_min_long_va": "0765434",
-          "state_max_long_va": "0770711",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "00410"
+          "state_min_lat_va": " 384730    ",
+          "state_max_lat_va": " 385944    ",
+          "state_min_long_va": " 0765434    ",
+          "state_max_long_va": " 0770711    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "00410   "
         },
         {
           "stateFipsCode": "12",
-          "state_min_lat_va": "242347",
-          "state_max_lat_va": "310003",
-          "state_min_long_va": "0795828",
-          "state_max_long_va": "0873806",
-          "state_min_alt_va": "-20",
-          "state_max_alt_va": "00345"
+          "state_min_lat_va": " 242347    ",
+          "state_max_lat_va": " 310003    ",
+          "state_min_long_va": " 0795828    ",
+          "state_max_long_va": " 0873806    ",
+          "state_min_alt_va": "  -20   ",
+          "state_max_alt_va": "00345   "
         },
         {
           "stateFipsCode": "13",
-          "state_min_lat_va": "302121",
-          "state_max_lat_va": "350002",
-          "state_min_long_va": "0804505",
-          "state_max_long_va": "0853619",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "04784"
+          "state_min_lat_va": " 302121    ",
+          "state_max_lat_va": " 350002    ",
+          "state_min_long_va": " 0804505    ",
+          "state_max_long_va": " 0853619    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "04784   "
         },
         {
           "stateFipsCode": "15",
-          "state_min_lat_va": "185156",
-          "state_max_lat_va": "221726",
-          "state_min_long_va": "1544521",
-          "state_max_long_va": "1603603",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "13796"
+          "state_min_lat_va": " 185156    ",
+          "state_max_lat_va": " 221726    ",
+          "state_min_long_va": " 1544521    ",
+          "state_max_long_va": " 1603603    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "13796   "
         },
         {
           "stateFipsCode": "16",
-          "state_min_lat_va": "415917",
-          "state_max_lat_va": "490004",
-          "state_min_long_va": "1110237",
-          "state_max_long_va": "1171435",
-          "state_min_alt_va": "00710",
-          "state_max_alt_va": "12662"
+          "state_min_lat_va": " 415917    ",
+          "state_max_lat_va": " 490004    ",
+          "state_min_long_va": " 1110237    ",
+          "state_max_long_va": " 1171435    ",
+          "state_min_alt_va": "00710   ",
+          "state_max_alt_va": "12662   "
         },
         {
           "stateFipsCode": "17",
-          "state_min_lat_va": "365813",
-          "state_max_lat_va": "423030",
-          "state_min_long_va": "0870112",
-          "state_max_long_va": "0913047",
-          "state_min_alt_va": "00279",
-          "state_max_alt_va": "01235"
+          "state_min_lat_va": " 365813    ",
+          "state_max_lat_va": " 423030    ",
+          "state_min_long_va": " 0870112    ",
+          "state_max_long_va": " 0913047    ",
+          "state_min_alt_va": "00279   ",
+          "state_max_alt_va": "01235   "
         },
         {
           "stateFipsCode": "18",
-          "state_min_lat_va": "374618",
-          "state_max_lat_va": "414541",
-          "state_min_long_va": "0844705",
-          "state_max_long_va": "0880552",
-          "state_min_alt_va": "00320",
-          "state_max_alt_va": "01257"
+          "state_min_lat_va": " 374618    ",
+          "state_max_lat_va": " 414541    ",
+          "state_min_long_va": " 0844705    ",
+          "state_max_long_va": " 0880552    ",
+          "state_min_alt_va": "00320   ",
+          "state_max_alt_va": "01257   "
         },
         {
           "stateFipsCode": "19",
-          "state_min_lat_va": "402232",
-          "state_max_lat_va": "433004",
-          "state_min_long_va": "0900824",
-          "state_max_long_va": "0963822",
-          "state_min_alt_va": "00480",
-          "state_max_alt_va": "01670"
+          "state_min_lat_va": " 402232    ",
+          "state_max_lat_va": " 433004    ",
+          "state_min_long_va": " 0900824    ",
+          "state_max_long_va": " 0963822    ",
+          "state_min_alt_va": "00480   ",
+          "state_max_alt_va": "01670   "
         },
         {
           "stateFipsCode": "20",
-          "state_min_lat_va": "365935",
-          "state_max_lat_va": "400011",
-          "state_min_long_va": "0943518",
-          "state_max_long_va": "1020306",
-          "state_min_alt_va": "00680",
-          "state_max_alt_va": "04039"
+          "state_min_lat_va": " 365935    ",
+          "state_max_lat_va": " 400011    ",
+          "state_min_long_va": " 0943518    ",
+          "state_max_long_va": " 1020306    ",
+          "state_min_alt_va": "00680   ",
+          "state_max_alt_va": "04039   "
         },
         {
           "stateFipsCode": "21",
-          "state_min_lat_va": "362949",
-          "state_max_lat_va": "390852",
-          "state_min_long_va": "0815753",
-          "state_max_long_va": "0893416",
-          "state_min_alt_va": "00257",
-          "state_max_alt_va": "04145"
+          "state_min_lat_va": " 362949    ",
+          "state_max_lat_va": " 390852    ",
+          "state_min_long_va": " 0815753    ",
+          "state_max_long_va": " 0893416    ",
+          "state_min_alt_va": "00257   ",
+          "state_max_alt_va": "04145   "
         },
         {
           "stateFipsCode": "22",
-          "state_min_lat_va": "285118",
-          "state_max_lat_va": "330110",
-          "state_min_long_va": "0884530",
-          "state_max_long_va": "0940236",
-          "state_min_alt_va": "-15",
-          "state_max_alt_va": "00535"
+          "state_min_lat_va": " 285118    ",
+          "state_max_lat_va": " 330110    ",
+          "state_min_long_va": " 0884530    ",
+          "state_max_long_va": " 0940236    ",
+          "state_min_alt_va": "  -15   ",
+          "state_max_alt_va": "00535   "
         },
         {
           "stateFipsCode": "23",
-          "state_min_lat_va": "425502",
-          "state_max_lat_va": "472735",
-          "state_min_long_va": "0665308",
-          "state_max_long_va": "0710502",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "05268"
+          "state_min_lat_va": " 425502    ",
+          "state_max_lat_va": " 472735    ",
+          "state_min_long_va": " 0665308    ",
+          "state_max_long_va": " 0710502    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "05268   "
         },
         {
           "stateFipsCode": "24",
-          "state_min_lat_va": "375312",
-          "state_max_lat_va": "394323",
-          "state_min_long_va": "0745911",
-          "state_max_long_va": "0792916",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03360"
+          "state_min_lat_va": " 375312    ",
+          "state_max_lat_va": " 394323    ",
+          "state_min_long_va": " 0745911    ",
+          "state_max_long_va": " 0792916    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03360   "
         },
         {
           "stateFipsCode": "25",
-          "state_min_lat_va": "411113",
-          "state_max_lat_va": "425312",
-          "state_min_long_va": "0695132",
-          "state_max_long_va": "0733029",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03491"
+          "state_min_lat_va": " 411113    ",
+          "state_max_lat_va": " 425312    ",
+          "state_min_long_va": " 0695132    ",
+          "state_max_long_va": " 0733029    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03491   "
         },
         {
           "stateFipsCode": "26",
-          "state_min_lat_va": "414146",
-          "state_max_lat_va": "481822",
-          "state_min_long_va": "0820723",
-          "state_max_long_va": "0902506",
-          "state_min_alt_va": "00550",
-          "state_max_alt_va": "01979"
+          "state_min_lat_va": " 414146    ",
+          "state_max_lat_va": " 481822    ",
+          "state_min_long_va": " 0820723    ",
+          "state_max_long_va": " 0902506    ",
+          "state_min_alt_va": "00550   ",
+          "state_max_alt_va": "01979   "
         },
         {
           "stateFipsCode": "27",
-          "state_min_lat_va": "432958",
-          "state_max_lat_va": "492304",
-          "state_min_long_va": "0892900",
-          "state_max_long_va": "0971421",
-          "state_min_alt_va": "00602",
-          "state_max_alt_va": "02301"
+          "state_min_lat_va": " 432958    ",
+          "state_max_lat_va": " 492304    ",
+          "state_min_long_va": " 0892900    ",
+          "state_max_long_va": " 0971421    ",
+          "state_min_alt_va": "00602   ",
+          "state_max_alt_va": "02301   "
         },
         {
           "stateFipsCode": "28",
-          "state_min_lat_va": "300846",
-          "state_max_lat_va": "345946",
-          "state_min_long_va": "0880552",
-          "state_max_long_va": "0913918",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "00806"
+          "state_min_lat_va": " 300846    ",
+          "state_max_lat_va": " 345946    ",
+          "state_min_long_va": " 0880552    ",
+          "state_max_long_va": " 0913918    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "00806   "
         },
         {
           "stateFipsCode": "29",
-          "state_min_lat_va": "355944",
-          "state_max_lat_va": "403649",
-          "state_min_long_va": "0890556",
-          "state_max_long_va": "0954629",
-          "state_min_alt_va": "00230",
-          "state_max_alt_va": "01772"
+          "state_min_lat_va": " 355944    ",
+          "state_max_lat_va": " 403649    ",
+          "state_min_long_va": " 0890556    ",
+          "state_max_long_va": " 0954629    ",
+          "state_min_alt_va": "00230   ",
+          "state_max_alt_va": "01772   "
         },
         {
           "stateFipsCode": "30",
-          "state_min_lat_va": "442130",
-          "state_max_lat_va": "490005",
-          "state_min_long_va": "1040221",
-          "state_max_long_va": "1160300",
-          "state_min_alt_va": "01800",
-          "state_max_alt_va": "12799"
+          "state_min_lat_va": " 442130    ",
+          "state_max_lat_va": " 490005    ",
+          "state_min_long_va": " 1040221    ",
+          "state_max_long_va": " 1160300    ",
+          "state_min_alt_va": "01800   ",
+          "state_max_alt_va": "12799   "
         },
         {
           "stateFipsCode": "31",
-          "state_min_lat_va": "400000",
-          "state_max_lat_va": "430006",
-          "state_min_long_va": "0951830",
-          "state_max_long_va": "1040313",
-          "state_min_alt_va": "00840",
-          "state_max_alt_va": "05424"
+          "state_min_lat_va": " 400000    ",
+          "state_max_lat_va": " 430006    ",
+          "state_min_long_va": " 0951830    ",
+          "state_max_long_va": " 1040313    ",
+          "state_min_alt_va": "00840   ",
+          "state_max_alt_va": "05424   "
         },
         {
           "stateFipsCode": "32",
-          "state_min_lat_va": "350007",
-          "state_max_lat_va": "420008",
-          "state_min_long_va": "1140223",
-          "state_max_long_va": "1200023",
-          "state_min_alt_va": "00479",
-          "state_max_alt_va": "13140"
+          "state_min_lat_va": " 350007    ",
+          "state_max_lat_va": " 420008    ",
+          "state_min_long_va": " 1140223    ",
+          "state_max_long_va": " 1200023    ",
+          "state_min_alt_va": "00479   ",
+          "state_max_alt_va": "13140   "
         },
         {
           "stateFipsCode": "33",
-          "state_min_lat_va": "424149",
-          "state_max_lat_va": "451820",
-          "state_min_long_va": "0703430",
-          "state_max_long_va": "0723326",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "06288"
+          "state_min_lat_va": " 424149    ",
+          "state_max_lat_va": " 451820    ",
+          "state_min_long_va": " 0703430    ",
+          "state_max_long_va": " 0723326    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "06288   "
         },
         {
           "stateFipsCode": "34",
-          "state_min_lat_va": "384719",
-          "state_max_lat_va": "412127",
-          "state_min_long_va": "0735306",
-          "state_max_long_va": "0753349",
-          "state_min_alt_va": "00-10",
-          "state_max_alt_va": "01803"
+          "state_min_lat_va": " 384719    ",
+          "state_max_lat_va": " 412127    ",
+          "state_min_long_va": " 0735306    ",
+          "state_max_long_va": " 0753349    ",
+          "state_min_alt_va": "00-10   ",
+          "state_max_alt_va": "01803   "
         },
         {
           "stateFipsCode": "35",
-          "state_min_lat_va": "311956",
-          "state_max_lat_va": "370001",
-          "state_min_long_va": "1030007",
-          "state_max_long_va": "1090301",
-          "state_min_alt_va": "02842",
-          "state_max_alt_va": "13161"
+          "state_min_lat_va": " 311956    ",
+          "state_max_lat_va": " 370001    ",
+          "state_min_long_va": " 1030007    ",
+          "state_max_long_va": " 1090301    ",
+          "state_min_alt_va": "02842   ",
+          "state_max_alt_va": "13161   "
         },
         {
           "stateFipsCode": "36",
-          "state_min_lat_va": "402839",
-          "state_max_lat_va": "450057",
-          "state_min_long_va": "0714639",
-          "state_max_long_va": "0794545",
-          "state_min_alt_va": "-1",
-          "state_max_alt_va": "05344"
+          "state_min_lat_va": " 402839    ",
+          "state_max_lat_va": " 450057    ",
+          "state_min_long_va": " 0714639    ",
+          "state_max_long_va": " 0794545    ",
+          "state_min_alt_va": "   -1   ",
+          "state_max_alt_va": "05344   "
         },
         {
           "stateFipsCode": "37",
-          "state_min_lat_va": "334510",
-          "state_max_lat_va": "363517",
-          "state_min_long_va": "0752400",
-          "state_max_long_va": "0841919",
-          "state_min_alt_va": "00-10",
-          "state_max_alt_va": "06684"
+          "state_min_lat_va": " 334510    ",
+          "state_max_lat_va": " 363517    ",
+          "state_min_long_va": " 0752400    ",
+          "state_max_long_va": " 0841919    ",
+          "state_min_alt_va": "00-10   ",
+          "state_max_alt_va": "06684   "
         },
         {
           "stateFipsCode": "38",
-          "state_min_lat_va": "455606",
-          "state_max_lat_va": "490002",
-          "state_min_long_va": "0963316",
-          "state_max_long_va": "1040300",
-          "state_min_alt_va": "00700",
-          "state_max_alt_va": "03506"
+          "state_min_lat_va": " 455606    ",
+          "state_max_lat_va": " 490002    ",
+          "state_min_long_va": " 0963316    ",
+          "state_max_long_va": " 1040300    ",
+          "state_min_alt_va": "00700   ",
+          "state_max_alt_va": "03506   "
         },
         {
           "stateFipsCode": "39",
-          "state_min_lat_va": "382412",
-          "state_max_lat_va": "421938",
-          "state_min_long_va": "0803106",
-          "state_max_long_va": "0844913",
-          "state_min_alt_va": "00433",
-          "state_max_alt_va": "01550"
+          "state_min_lat_va": " 382412    ",
+          "state_max_lat_va": " 421938    ",
+          "state_min_long_va": " 0803106    ",
+          "state_max_long_va": " 0844913    ",
+          "state_min_alt_va": "00433   ",
+          "state_max_alt_va": "01550   "
         },
         {
           "stateFipsCode": "40",
-          "state_min_lat_va": "333657",
-          "state_max_lat_va": "370008",
-          "state_min_long_va": "0942550",
-          "state_max_long_va": "1030009",
-          "state_min_alt_va": "00289",
-          "state_max_alt_va": "04973"
+          "state_min_lat_va": " 333657    ",
+          "state_max_lat_va": " 370008    ",
+          "state_min_long_va": " 0942550    ",
+          "state_max_long_va": " 1030009    ",
+          "state_min_alt_va": "00289   ",
+          "state_max_alt_va": "04973   "
         },
         {
           "stateFipsCode": "41",
-          "state_min_lat_va": "415930",
-          "state_max_lat_va": "461757",
-          "state_min_long_va": "1162748",
-          "state_max_long_va": "1244213",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "11239"
+          "state_min_lat_va": " 415930    ",
+          "state_max_lat_va": " 461757    ",
+          "state_min_long_va": " 1162748    ",
+          "state_max_long_va": " 1244213    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "11239   "
         },
         {
           "stateFipsCode": "42",
-          "state_min_lat_va": "394311",
-          "state_max_lat_va": "423058",
-          "state_min_long_va": "0744122",
-          "state_max_long_va": "0803111",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03213"
+          "state_min_lat_va": " 394311    ",
+          "state_max_lat_va": " 423058    ",
+          "state_min_long_va": " 0744122    ",
+          "state_max_long_va": " 0803111    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03213   "
         },
         {
           "stateFipsCode": "44",
-          "state_min_lat_va": "410545",
-          "state_max_lat_va": "420108",
-          "state_min_long_va": "0710519",
-          "state_max_long_va": "0715426",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "00812"
+          "state_min_lat_va": " 410545    ",
+          "state_max_lat_va": " 420108    ",
+          "state_min_long_va": " 0710519    ",
+          "state_max_long_va": " 0715426    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "00812   "
         },
         {
           "stateFipsCode": "45",
-          "state_min_lat_va": "320200",
-          "state_max_lat_va": "351256",
-          "state_min_long_va": "0782957",
-          "state_max_long_va": "0832114",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03560"
+          "state_min_lat_va": " 320200    ",
+          "state_max_lat_va": " 351256    ",
+          "state_min_long_va": " 0782957    ",
+          "state_max_long_va": " 0832114    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03560   "
         },
         {
           "stateFipsCode": "46",
-          "state_min_lat_va": "422847",
-          "state_max_lat_va": "455645",
-          "state_min_long_va": "0962611",
-          "state_max_long_va": "1040328",
-          "state_min_alt_va": "00962",
-          "state_max_alt_va": "07242"
+          "state_min_lat_va": " 422847    ",
+          "state_max_lat_va": " 455645    ",
+          "state_min_long_va": " 0962611    ",
+          "state_max_long_va": " 1040328    ",
+          "state_min_alt_va": "00962   ",
+          "state_max_alt_va": "07242   "
         },
         {
           "stateFipsCode": "47",
-          "state_min_lat_va": "345859",
-          "state_max_lat_va": "364042",
-          "state_min_long_va": "0813849",
-          "state_max_long_va": "0901837",
-          "state_min_alt_va": "00178",
-          "state_max_alt_va": "06643"
+          "state_min_lat_va": " 345859    ",
+          "state_max_lat_va": " 364042    ",
+          "state_min_long_va": " 0813849    ",
+          "state_max_long_va": " 0901837    ",
+          "state_min_alt_va": "00178   ",
+          "state_max_alt_va": "06643   "
         },
         {
           "stateFipsCode": "48",
-          "state_min_lat_va": "255014",
-          "state_max_lat_va": "363003",
-          "state_min_long_va": "0933029",
-          "state_max_long_va": "1063844",
-          "state_min_alt_va": "-10",
-          "state_max_alt_va": "08751"
+          "state_min_lat_va": " 255014    ",
+          "state_max_lat_va": " 363003    ",
+          "state_min_long_va": " 0933029    ",
+          "state_max_long_va": " 1063844    ",
+          "state_min_alt_va": "  -10   ",
+          "state_max_alt_va": "08751   "
         },
         {
           "stateFipsCode": "49",
-          "state_min_lat_va": "365953",
-          "state_max_lat_va": "420006",
-          "state_min_long_va": "1090228",
-          "state_max_long_va": "1140311",
-          "state_min_alt_va": "02000",
-          "state_max_alt_va": "13528"
+          "state_min_lat_va": " 365953    ",
+          "state_max_lat_va": " 420006    ",
+          "state_min_long_va": " 1090228    ",
+          "state_max_long_va": " 1140311    ",
+          "state_min_alt_va": "02000   ",
+          "state_max_alt_va": "13528   "
         },
         {
           "stateFipsCode": "50",
-          "state_min_lat_va": "424337",
-          "state_max_lat_va": "450100",
-          "state_min_long_va": "0712754",
-          "state_max_long_va": "0732616",
-          "state_min_alt_va": "00092",
-          "state_max_alt_va": "04393"
+          "state_min_lat_va": " 424337    ",
+          "state_max_lat_va": " 450100    ",
+          "state_min_long_va": " 0712754    ",
+          "state_max_long_va": " 0732616    ",
+          "state_min_alt_va": "00092   ",
+          "state_max_alt_va": "04393   "
         },
         {
           "stateFipsCode": "51",
-          "state_min_lat_va": "363227",
-          "state_max_lat_va": "392758",
-          "state_min_long_va": "0750959",
-          "state_max_long_va": "0834031",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "05729"
+          "state_min_lat_va": " 363227    ",
+          "state_max_lat_va": " 392758    ",
+          "state_min_long_va": " 0750959    ",
+          "state_max_long_va": " 0834031    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "05729   "
         },
         {
           "stateFipsCode": "53",
-          "state_min_lat_va": "453237",
-          "state_max_lat_va": "490009",
-          "state_min_long_va": "1165456",
-          "state_max_long_va": "1245056",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "14410"
+          "state_min_lat_va": " 453237    ",
+          "state_max_lat_va": " 490009    ",
+          "state_min_long_va": " 1165456    ",
+          "state_max_long_va": " 1245056    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "14410   "
         },
         {
           "stateFipsCode": "54",
-          "state_min_lat_va": "371206",
-          "state_max_lat_va": "403820",
-          "state_min_long_va": "0774310",
-          "state_max_long_va": "0823841",
-          "state_min_alt_va": "00240",
-          "state_max_alt_va": "04862"
+          "state_min_lat_va": " 371206    ",
+          "state_max_lat_va": " 403820    ",
+          "state_min_long_va": " 0774310    ",
+          "state_max_long_va": " 0823841    ",
+          "state_min_alt_va": "00240   ",
+          "state_max_alt_va": "04862   "
         },
         {
           "stateFipsCode": "55",
-          "state_min_lat_va": "422930",
-          "state_max_lat_va": "471835",
-          "state_min_long_va": "0861458",
-          "state_max_long_va": "0925322",
-          "state_min_alt_va": "00579",
-          "state_max_alt_va": "01952"
+          "state_min_lat_va": " 422930    ",
+          "state_max_lat_va": " 471835    ",
+          "state_min_long_va": " 0861458    ",
+          "state_max_long_va": " 0925322    ",
+          "state_min_alt_va": "00579   ",
+          "state_max_alt_va": "01952   "
         },
         {
           "stateFipsCode": "56",
-          "state_min_lat_va": "405941",
-          "state_max_lat_va": "450021",
-          "state_min_long_va": "1040308",
-          "state_max_long_va": "1110325",
-          "state_min_alt_va": "03100",
-          "state_max_alt_va": "13804"
+          "state_min_lat_va": " 405941    ",
+          "state_max_lat_va": " 450021    ",
+          "state_min_long_va": " 1040308    ",
+          "state_max_long_va": " 1110325    ",
+          "state_min_alt_va": "03100   ",
+          "state_max_alt_va": "13804   "
         },
         {
           "stateFipsCode": "60",
-          "state_min_lat_va": "-180000",
-          "state_max_lat_va": "-100000",
-          "state_min_long_va": "1650000",
-          "state_max_long_va": "1750000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "06300"
+          "state_min_lat_va": "-180000    ",
+          "state_max_lat_va": "-100000    ",
+          "state_min_long_va": " 1650000    ",
+          "state_max_long_va": " 1750000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "06300   "
         },
         {
           "stateFipsCode": "65",
-          "state_min_lat_va": "055204",
-          "state_max_lat_va": "055349",
-          "state_min_long_va": "1620220",
-          "state_max_long_va": "1620654",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "00006"
+          "state_min_lat_va": " 055204    ",
+          "state_max_lat_va": " 055349    ",
+          "state_min_long_va": " 1620220    ",
+          "state_max_long_va": " 1620654    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "00006   "
         },
         {
           "stateFipsCode": "66",
-          "state_min_lat_va": "131430",
-          "state_max_lat_va": "133930",
-          "state_min_long_va": "-1455730",
-          "state_max_long_va": "-1443650",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02000"
+          "state_min_lat_va": " 131430    ",
+          "state_max_lat_va": " 133930    ",
+          "state_min_long_va": "-1455730    ",
+          "state_max_long_va": "-1443650    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02000   "
         },
         {
           "stateFipsCode": "67",
-          "state_min_lat_va": "164310",
-          "state_max_lat_va": "164525",
-          "state_min_long_va": "1692908",
-          "state_max_long_va": "1693252",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": " 164310    ",
+          "state_max_lat_va": " 164525    ",
+          "state_min_long_va": " 1692908    ",
+          "state_max_long_va": " 1693252    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         },
         {
           "stateFipsCode": "69",
-          "state_min_lat_va": "140600",
-          "state_max_lat_va": "184900",
-          "state_min_long_va": "-1455100",
-          "state_max_long_va": "-1450600",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "02000"
+          "state_min_lat_va": " 140600    ",
+          "state_max_lat_va": " 184900    ",
+          "state_min_long_va": "-1455100    ",
+          "state_max_long_va": "-1450600    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "02000   "
         },
         {
           "stateFipsCode": "71",
-          "state_min_lat_va": "281130",
-          "state_max_lat_va": "281648",
-          "state_min_long_va": "1771836",
-          "state_max_long_va": "1772530",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": " 281130    ",
+          "state_max_lat_va": " 281648    ",
+          "state_min_long_va": " 1771836    ",
+          "state_max_long_va": " 1772530    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         },
         {
           "stateFipsCode": "72",
-          "state_min_lat_va": "174953",
-          "state_max_lat_va": "183405",
-          "state_min_long_va": "0651007",
-          "state_max_long_va": "0675956",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "04389"
+          "state_min_lat_va": " 174953    ",
+          "state_max_lat_va": " 183405    ",
+          "state_min_long_va": " 0651007    ",
+          "state_max_long_va": " 0675956    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "04389   "
         },
         {
           "stateFipsCode": "73",
-          "state_min_lat_va": "",
-          "state_max_lat_va": "",
-          "state_min_long_va": "",
-          "state_max_long_va": "",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": "           ",
+          "state_max_lat_va": "           ",
+          "state_min_long_va": "            ",
+          "state_max_long_va": "            ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         },
         {
           "stateFipsCode": "74",
-          "state_min_lat_va": "172400",
-          "state_max_lat_va": "172512",
-          "state_min_long_va": "0835324",
-          "state_max_long_va": "0835645",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": " 172400    ",
+          "state_max_lat_va": " 172512    ",
+          "state_min_long_va": " 0835324    ",
+          "state_max_long_va": " 0835645    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         },
         {
           "stateFipsCode": "76",
-          "state_min_lat_va": "",
-          "state_max_lat_va": "",
-          "state_min_long_va": "",
-          "state_max_long_va": "",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "30000"
+          "state_min_lat_va": "           ",
+          "state_max_lat_va": "           ",
+          "state_min_long_va": "            ",
+          "state_max_long_va": "            ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "30000   "
         },
         {
           "stateFipsCode": "77",
-          "state_min_lat_va": "053000",
-          "state_max_lat_va": "190000",
-          "state_min_long_va": "-1270000",
-          "state_max_long_va": "-1170000",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": " 053000    ",
+          "state_max_lat_va": " 190000    ",
+          "state_min_long_va": "-1270000    ",
+          "state_max_long_va": "-1170000    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         },
         {
           "stateFipsCode": "78",
-          "state_min_lat_va": "174030",
-          "state_max_lat_va": "182530",
-          "state_min_long_va": "0643300",
-          "state_max_long_va": "0650600",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "01556"
+          "state_min_lat_va": " 174030    ",
+          "state_max_lat_va": " 182530    ",
+          "state_min_long_va": " 0643300    ",
+          "state_max_long_va": " 0650600    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "01556   "
         },
         {
           "stateFipsCode": "79",
-          "state_min_lat_va": "191612",
-          "state_max_lat_va": "191900",
-          "state_min_long_va": "-1664012",
-          "state_max_long_va": "-1663600",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "03000"
+          "state_min_lat_va": " 191612    ",
+          "state_max_lat_va": " 191900    ",
+          "state_min_long_va": "-1664012    ",
+          "state_max_long_va": "-1663600    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": "03000   "
         }
       ]
     },
@@ -1144,12 +1144,12 @@
       "states": [
         {
           "stateFipsCode": "00",
-          "state_min_lat_va": "125900",
-          "state_max_lat_va": "132300",
-          "state_min_long_va": "0610630",
-          "state_max_long_va": "0611715",
-          "state_min_alt_va": "00000",
-          "state_max_alt_va": "4049"
+          "state_min_lat_va": " 125900    ",
+          "state_max_lat_va": " 132300    ",
+          "state_min_long_va": " 0610630    ",
+          "state_max_long_va": " 0611715    ",
+          "state_min_alt_va": "00000   ",
+          "state_max_alt_va": " 4049   "
         }
       ]
     }

@@ -7,12 +7,12 @@ select distinct country_cd from state order by 1;
 
 cursor state_c (c in varchar2) is
 select distinct country_cd, state_cd,
-'"'||trim(state_min_lat_va)||'"' state_min_lat_va ,
-'"'||trim(state_max_lat_va)||'"' state_max_lat_va,
-'"'||trim(state_min_long_va)||'"' state_min_long_va,
-'"'||trim(state_max_long_va)||'"' state_max_long_va,
-'"'||trim(state_min_alt_va)||'"' state_min_alt_va ,
-'"'||trim(state_max_alt_va)||'"' state_max_alt_va from state where country_cd = c order by 1, 2;
+'"'||state_min_lat_va||'"' state_min_lat_va ,
+'"'||state_max_lat_va||'"' state_max_lat_va,
+'"'||state_min_long_va||'"' state_min_long_va,
+'"'||state_max_long_va||'"' state_max_long_va,
+'"'||state_min_alt_va||'"' state_min_alt_va ,
+'"'||state_max_alt_va||'"' state_max_alt_va from state where country_cd = c order by 1, 2;
 
 
 begin 

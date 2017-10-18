@@ -1,0 +1,48 @@
+begin
+
+declare
+
+cursor country is
+select distinct country_cd from county order by 1;
+
+cursor state_c (c in varchar2) is
+select distinct country_cd, state_cd from county where country_cd = c order by 1, 2;
+
+cursor counties(c in varchar2, s in varchar2) is
+select 
+'"'||trim(county_cd)||'"' county_cd, 
+'"'||county_min_lat_va||'"' county_min_lat_va ,
+'"'||county_max_lat_va||'"' county_max_lat_va,
+'"'||county_min_long_va||'"' county_min_long_va,
+'"'||county_max_long_va||'"' county_max_long_va,
+'"'||county_min_alt_va||'"' county_min_alt_va ,
+'"'||county_max_alt_va||'"' county_max_alt_va
+from county where country_cd = c and state_cd = s order by 1;
+
+begin 
+dbms_output.put_line('{"countries": [');
+for c in country 
+    loop
+        dbms_output.put_line ('{"countryCode": "'||c.country_cd||'",');
+        dbms_output.put_line ('"states": [');
+        for s in state_c(c.country_cd)
+        loop
+             dbms_output.put_line ('{"stateFipsCode": "'||s.state_cd||'", "counties": [');
+            for county in counties(c.country_cd, s.state_cd)
+            loop
+                dbms_output.put_line('{"countyCode": '||county.county_cd||', ');
+                dbms_output.put_line('"county_min_lat_va": '||county.county_min_lat_va||',');
+                dbms_output.put_line('"county_max_lat_va": '||county.county_max_lat_va||',');
+                dbms_output.put_line('"county_min_long_va": '||county.county_min_long_va||',');
+                dbms_output.put_line('"county_max_long_va": '||county.county_max_long_va||',');
+                dbms_output.put_line('"county_min_alt_va": '||county.county_min_alt_va||',');
+                dbms_output.put_line('"county_max_alt_va": '||county.county_max_alt_va||'},');
+            end loop;
+            dbms_output.put_line(']},');
+        end loop;
+        dbms_output.put_line(']},');
+    end loop;
+dbms_output.put_line(']}');
+
+ end;
+ end;
