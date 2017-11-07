@@ -445,6 +445,12 @@ class ErrorValidatorLatitudeTestCase(TestCase):
                                                  'coordinateAccuracyCode': '1', 'coordinateDatumCode': 'BARBADOS',
                                                   'coordinateMethodCode': 'C'}, {}, update=True))
 
+    def test_site_type_not_optional_invalid(self):
+        validator.validate({'latitude': '', 'longitude': '',
+                                            'coordinateAccuracyCode': '', 'coordinateDatumCode': '',
+                                            'coordinateMethodCode': '', 'siteTypeCode': 'SB-CV'}, {}, update=True)
+        self.assertIn('latitude', validator.errors)
+
 
 class ErrorValidatorLongitudeTestCase(TestCase):
 
@@ -1175,19 +1181,22 @@ class NationalAquiferCodeTestCase(TestCase):
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'countryCode': 'RM', 'stateFipsCode': '02'}, update=True)
         self.assertIn('nationalAquiferCode', validator.errors)
 
-    #TODO: Put back in when site type cross field json has been regenerated
-    '''
     def test_invalid_non_null_code_site_type(self):
         validator.validate(
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'nationalAquiferCode': 'N100AKUNCD'},
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'ST-CA'}, update=True)
+        self.assertIn('nationalAquiferCode', validator.errors['siteTypeCode'][0])
+
+        validator.validate(
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'nationalAquiferCode': ' '},
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'ST-CA'}, update=True)
         self.assertNotIn('siteTypeCode', validator.errors)
 
         validator.validate(
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'nationalAquiferCode': 'N100AKUNCD'},
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'FA-CI'}, update=True)
-        self.assertIn('siteTypeCode', validator.errors)
-    '''
+        self.assertNotIn('siteTypeCode', validator.errors)
+
 
 class AquiferCodeTestCase(TestCase):
 
@@ -1228,12 +1237,18 @@ class AquiferCodeTestCase(TestCase):
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'countryCode': 'US', 'stateFipsCode': '80'}, update=True)
         self.assertIn('aquiferCode', validator.errors)
 
-    #TODO: Put back in when site type cross field json is regenerate
-    '''
     def test_invalid_non_null_code_for_site_type(self):
         validator.validate(
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferCode': '400PCMB'},
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'countryCode': 'US', 'stateFipsCode': '01', 'siteTypeCode': 'ST-CA'},
+            update=True
+        )
+        self.assertIn('aquiferCode', validator.errors['siteTypeCode'][0])
+
+        validator.validate(
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferCode': ' '},
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'countryCode': 'US', 'stateFipsCode': '01',
+             'siteTypeCode': 'ST-CA'},
             update=True
         )
         self.assertNotIn('siteTypeCode', validator.errors)
@@ -1241,11 +1256,11 @@ class AquiferCodeTestCase(TestCase):
         validator.validate(
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferCode': '400PCMB'},
             {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'countryCode': 'US', 'stateFipsCode': '01',
-             'siteTypeCode': 'FA-CI'},
+             'siteTypeCode': 'AG'},
             update=True
         )
-        self.assertIn('siteTypeCode', validator.errors)
-    '''
+        self.assertNotIn('siteTypeCode', validator.errors)
+
 
 class AquiferTypeCodeTestCase(TestCase):
 
@@ -1276,17 +1291,19 @@ class AquiferTypeCodeTestCase(TestCase):
                            {'agencyCode': 'USGS ', 'siteNumber': '12345678'}, update=True)
         self.assertIn('aquiferTypeCode', validator.errors)
 
-    #TODO: Put back in when site type cross field json has been regenerated
-    '''
     def test_invalid_non_null_code_for_site_type(self):
-        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferTypeCode': 'U'},
+        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferTypeCode': ' '},
                            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'ST-CA'}, update=True)
         self.assertNotIn('siteTypeCode', validator.errors)
 
         validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferTypeCode': 'U'},
-                           {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'FA-CI'}, update=True)
-        self.assertIn('siteTypeCode', validator.errors)
-    '''
+                           {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'ST-CA'}, update=True)
+        self.assertIn('aquiferTypeCode', validator.errors['siteTypeCode'][0])
+
+        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'aquiferTypeCode': 'U'},
+                           {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'AG'}, update=True)
+        self.assertNotIn('siteTypeCode', validator.errors)
+
 
 class AgencyUseCodeTestCase(TestCase):
 
@@ -1320,13 +1337,23 @@ class AgencyUseCodeTestCase(TestCase):
 
 class DataReliabilityCodeTestCase(TestCase):
 
-    def test_optional(self):
+    def test_optional_for_site_type_code(self):
         validator.validate(
-            {'agencyCode': 'USGS ', 'siteNumber': '12345678'}, {}, update=False)
-        self.assertNotIn('dataReliabilityCode', validator.errors)
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'SB-CV'}, {}, update=False)
+        self.assertNotIn('dataReliabilityCode', validator.errors['siteTypeCode'][0])
 
-        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'dataReliabilityCode': ' '}, {}, update=False)
-        self.assertNotIn('dataReliabilityCode', validator.errors)
+        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'dataReliabilityCode': ' ', 'siteTypeCode': 'SB-CV'},
+                           {}, update=False)
+        self.assertNotIn('dataReliabilityCode', validator.errors['siteTypeCode'][0])
+
+    def test_not_optional_for_site_type_code(self):
+        validator.validate(
+            {'agencyCode': 'USGS ', 'siteNumber': '12345678', 'siteTypeCode': 'SP'}, {}, update=False)
+        self.assertIn('dataReliabilityCode', validator.errors['siteTypeCode'][0])
+
+        validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'dataReliabilityCode': ' ', 'siteTypeCode': 'SP'},
+                           {}, update=False)
+        self.assertIn('dataReliabilityCode', validator.errors['siteTypeCode'][0])
 
     def test_max_length(self):
         validator.validate({'agencyCode': 'USGS ', 'siteNumber': '12345678', 'dataReliabilityCode': 'L'},

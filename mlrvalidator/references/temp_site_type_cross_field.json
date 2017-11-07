@@ -1,3 +1,734 @@
 {
-  "siteTypeCodes": []
+  "siteTypeCodes": [
+    {
+      "siteTypeCode": "AT",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "ES",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-AWL",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-CI",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-DV",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-LF",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalWaterUseCode",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-OF",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-PV",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalWaterUseCode",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-QC",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalWaterUseCode",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-SPS",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WIW",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GL",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "GW",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-CR",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-EX",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-HZ",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-IW",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-MW",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "GW-TH",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-EX",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-OU",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-PLY",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": []
+    },
+    {
+      "siteTypeCode": "LA-SH",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-SNK",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-SR",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "LA-VOL",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "LK",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "OC",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "OC-CO",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "SB",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "SB-CV",
+      "notNullAttrs": [
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "SB-GWD",
+      "notNullAttrs": [
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "SB-TSM",
+      "notNullAttrs": [
+        "latitude",
+        "longitude",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea"
+      ]
+    },
+    {
+      "siteTypeCode": "SB-UZ",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "nationalWaterUseCode"
+      ]
+    },
+    {
+      "siteTypeCode": "SP",
+      "notNullAttrs": [
+        "dataReliabilityCode",
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "SS",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "ST",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "ST-CA",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "ST-DCH",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "ST-TS",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "holeDepth",
+        "nationalAquiferCode",
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "WE",
+      "notNullAttrs": [
+        "latitude",
+        "longitude"
+      ],
+      "nullAttrs": [
+        "nationalWaterUseCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WWD",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WU",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WWTP",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-STS",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-HP",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-CS",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-SEW",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "tertiaryUseOfSiteCode"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-GC",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "AS",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalAquiferCode",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "AW",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "aquiferCode",
+        "aquiferTypeCode",
+        "contributingDrainageArea",
+        "holeDepth",
+        "nationalAquiferCode",
+        "primaryUseOfSite",
+        "secondaryUseOfSite",
+        "sourceOfDepthCode",
+        "tertiaryUseOfSiteCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-TEP",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-FON",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "AG",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WTP",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    },
+    {
+      "siteTypeCode": "FA-WDS",
+      "notNullAttrs": [],
+      "nullAttrs": [
+        "contributingDrainageArea",
+        "holeDepth",
+        "sourceOfDepthCode",
+        "wellDepth"
+      ]
+    }
+  ]
 }
